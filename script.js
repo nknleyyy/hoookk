@@ -1,9 +1,9 @@
 const messages = [
-    "Are you sure?",
+    "I'llcut your marks",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it old monk kodsthini!",
+    "Attendence kodalla",
+    "kai mugithini bannii students",
+    "Nija baralvaa?",
     "If you say no, I will be really sad...",
     "I will be very sad...",
     "I will be very very very sad...",
