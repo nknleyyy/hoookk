@@ -58,3 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Enjoy 💖
+<img width="578" height="593" alt="Image" src="https://github.com/user-attachments/assets/8c73245f-6166-4d97-a3e9-1df3c77b3d97" />
